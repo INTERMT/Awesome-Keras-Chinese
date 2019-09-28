@@ -27,7 +27,7 @@ Keras是Python中以CNTK、Tensorflow或者Theano为计算后台的一个深度�
 1. [Waterloo大学关于Keras的课程](https://www.youtube.com/watch?v=Tp3SaRbql4k)，该视频在YouTube上有很高的播放率，课程质量非常高。
 2. [CERN使用Keras进行深度学习系列教程](http://cds.cern.ch/record/2157570?ln=en)，比较详细、权威的一个Keras系列教程视频。
 3. [莫烦Keras视频教程](https://www.bilibili.com/video/av16910214/)，莫烦老师的视频在B站、YouTube上都有很高的播放量，强烈推荐给大家。
-4. 再为大家推荐YouTube上另一个大佬[Sentdex的Keras教学视频](https://www.youtube.com/watch?v=wQ8BIBpya2k)，还配套有相应的文本教程和笔记：https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/ 。
+4. 再为大家推荐YouTube上另一个大佬[Sentdex的Keras教学视频](https://www.youtube.com/watch?v=wQ8BIBpya2k)，还配套有相应的[文本教程和笔记](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)。
 
 ### 四、Keras&NLP代码案例
 

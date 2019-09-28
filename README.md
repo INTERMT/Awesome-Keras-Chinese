@@ -5,7 +5,7 @@
 - [Keras代码案例](#四-Keras&NLP代码案例)
     - [Keras&NLP](#四-Keras&NLP代码案例)
     - [Keras&CV](#五-Keras&CV代码案例)
-- [Keras项目](#六、Keras项目)
+- [Keras项目](#六-Keras项目)
 
 ### 一、Keras简介
 
